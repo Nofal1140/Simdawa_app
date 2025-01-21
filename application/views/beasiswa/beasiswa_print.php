@@ -28,4 +28,5 @@ foreach ($beasiswa as $a) {
     $pdf->Cell(4, 1, $a->nama_jenis, 1, 1, "C");
 }
 $pdf->Output("I", "Laporan Data Beasiswa.pdf");
+
  

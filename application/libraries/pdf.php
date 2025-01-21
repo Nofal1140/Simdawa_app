@@ -1,5 +1,3 @@
-// libraries/Pdf.php
-
 <?php
 
 class Pdf
